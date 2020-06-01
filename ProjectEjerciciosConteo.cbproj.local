@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/03/16 17:21:02.000.575,=C:\Users\jhasm\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2019/03/16 17:21:07.000.080,=C:\Users\jhasm\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2019/12/21 13:33:42.000.159,=C:\Users\jhasm\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2019/12/21 13:33:44.000.249,=C:\Users\jhasm\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/06/01 16:27:12.000.537,=C:\Users\jhasm\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/06/01 16:27:12.000.628,=C:\Users\jhasm\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2020/06/01 16:27:51.000.845,C:\Users\jhasm\Documents\Embarcadero\Studio\Projects\File1.cpp=D:\UAGRM FICCT\3 - PROGRAMACION II\U.A.G.R.M.-Programacion_II-Docente_Juan_Carlos_Contreras-Ejercicios_Conteo-C_MAS_MAS-RAD_STUDIO\EjerciciosConteo.cpp</Transaction>
+    <Transaction>2020/06/01 16:28:25.000.127,C:\Users\jhasm\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=D:\UAGRM FICCT\3 - PROGRAMACION II\U.A.G.R.M.-Programacion_II-Docente_Juan_Carlos_Contreras-Ejercicios_Conteo-C_MAS_MAS-RAD_STUDIO\ProjectPEjeConteo.h</Transaction>
+    <Transaction>2020/06/01 16:28:38.000.624,C:\Users\jhasm\Documents\Embarcadero\Studio\Projects\Project1.cbproj=D:\UAGRM FICCT\3 - PROGRAMACION II\U.A.G.R.M.-Programacion_II-Docente_Juan_Carlos_Contreras-Ejercicios_Conteo-C_MAS_MAS-RAD_STUDIO\ProjectEjerciciosConteo.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
